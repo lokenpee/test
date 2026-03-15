@@ -1,0 +1,9 @@
+{
+    "display_name": "剧情规划插件精简版",
+    "author": "yumitoushou (trimmed)",
+    "version": "0.1.0",
+    "js": "index.js", 
+    "css": ["style.css"],
+    "html": ["drawer-component.html"]
+}
+
